@@ -6,7 +6,7 @@ changed div class to body class <br>
 changed footer class to footer<Br>
 consolidated h3 functions in css<br>
 consolidated main content functions in css<Br>
-changed benegit tag to aside <Br>
+changed benefit tag to aside <Br>
 consildated benefit img function in css<Br>
 consolidated main content image function in <br>
 consolidated benefit functions in css
