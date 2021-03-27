@@ -10,3 +10,5 @@ changed benefit tag to aside <Br>
 consildated benefit img function in css<Br>
 consolidated main content image function in <br>
 consolidated benefit functions in css
+added correspongind id to search-engine-optimization
+added alt attirbutes to images
